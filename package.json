@@ -1,0 +1,24 @@
+{
+  "name": "js_my_backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaroslav",
+  "license": "ISC",
+  "description": "back-end part",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antibote/js_backend_my.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Antibote/js_backend_my/issues"
+  },
+  "homepage": "https://github.com/Antibote/js_backend_my#readme",
+    "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
